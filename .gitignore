@@ -1,0 +1,9 @@
+*
+!*.*
+!*/*
+!LICENSE
+*.zip
+*.tar.gz
+*.txt
+*.exe
+!wordlist.txt
